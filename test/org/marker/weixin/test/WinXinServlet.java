@@ -37,7 +37,7 @@ public class WinXinServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	// TOKEN 是你在微信平台开发模式中设置的哦
-	public static final String TOKEN = "doumitest";
+	public static final String TOKEN = "";
 
 	public static void main(String[] args) {
 		String signature = "ee698bd52b894d16e7f70f98d9ed79dec7c9372e";// 微信加密签名

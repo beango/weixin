@@ -13,9 +13,9 @@ public interface Config {
 	String grant_type = "client_credential";
 	
 	// 修改为开发者申请的appid
-	String APPID      = "wx3386db73536a091d";
+	String APPID      = "";
 	
 	// 修改为开发者申请的secret密钥
-	String SECRET     = "13514197b979b5cfe70290c2eecf09a5";
+	String SECRET     = "";
 	
 }
